@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1560797563 source:c:\users\aymenmt\desktop\tp\main.cpp
+	<iostream>
+	"Ouvrage.h"
+	"Video.h"
+	"Livre.h"
+	"Bibliotheque.h"
+
+1560787425 source:c:\users\aymenmt\desktop\tp\src\ouvrage.cpp
+	"Ouvrage.h"
+
+1560791434 c:\users\aymenmt\desktop\tp\include\ouvrage.h
+	<string>
+
+1560787425 source:c:\users\aymenmt\desktop\tp\src\livre.cpp
+	"Livre.h"
+
+1560783251 c:\users\aymenmt\desktop\tp\include\livre.h
+	"Ouvrage.h"
+
+1560787425 source:c:\users\aymenmt\desktop\tp\src\video.cpp
+	"Video.h"
+
+1560783549 c:\users\aymenmt\desktop\tp\include\video.h
+	"Ouvrage.h"
+
+1560783708 source:c:\users\aymenmt\desktop\tp\src\abonne.cpp
+	"Abonne.h"
+
+1560783613 c:\users\aymenmt\desktop\tp\include\abonne.h
+	<string>
+
+1560797734 source:c:\users\aymenmt\desktop\tp\src\bibliotheque.cpp
+	"Bibliotheque.h"
+
+1560792053 c:\users\aymenmt\desktop\tp\include\bibliotheque.h
+	<string>
+	<vector>
+	<iostream>
+	"Video.h"
+	"Livre.h"
+	"Abonne.h"
+	<iterator>
+
